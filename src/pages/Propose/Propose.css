@@ -1,0 +1,39 @@
+.propose {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 12%;
+    position: relative;
+}
+
+.propose h1 {
+    font-family: "Great Vibes", serif;
+    font-size: 56px;
+}
+
+.propose .message {
+    font-size: 24px;
+    font-family: "Courgette", serif;
+    position: absolute;
+    animation: fadeIn 0.8s ease-in-out;
+    top: 70%;
+}
+
+.propose .button-container {
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+    position: relative;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
