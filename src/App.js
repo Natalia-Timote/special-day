@@ -14,7 +14,7 @@ function App() {
         position: "relative",
       }}
     >
-      <Propose question={"Você quer casar comigo?"} />
+      <Propose question={"Você quer namorar comigo?"} />
     </div>
   );
 }
