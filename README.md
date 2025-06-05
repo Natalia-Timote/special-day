@@ -47,7 +47,7 @@ O projeto está disponível para visualização na **Vercel**. Clique no link ab
 
 Página inicial do projeto, com fundo, mensagem e botões para resposta.
 
-![Página inicial - casamento](images/casamento-home.png)
+![Página inicial - casamento](public/images/casamento-home.png)
 ![Página inicial - namoro](public/images/namoro-home.png)
 
 **💖 Funcionalidade do botão "não"**
