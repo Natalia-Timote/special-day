@@ -2,7 +2,7 @@
 
 O **Special Day** é uma aplicação interativa e divertida para fazer um **pedido especial de namoro ou casamento**. São duas versões disponíveis, salvas em **branches separadas**, cada uma com sua identidade visual. A proposta é simples: surpreender alguém especial com um pedido inesquecível!
 
-![Static Badge](https://img.shields.io/badge/Conclu%C3%ADdo-label?style=for-the-badge&label=Status) ![Static Badge](https://img.shields.io/badge/Alura-label?style=for-the-badge&label=Curso&color=%23000080)
+![Static Badge](https://img.shields.io/badge/Conclu%C3%ADdo-label?style=for-the-badge&label=Status)
 
 <hr>
 
